@@ -39,4 +39,4 @@ print(Get_Net_Data('as'))</code>
 from src.critical_node.DATA.Get_Data import Get_All_BuilInData
 print(Get_All_BuilInData())</code>
 
-## **
+## read me 暂时未完成
